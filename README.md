@@ -1,4 +1,6 @@
 # Kamus_Basing
+NAME  : Naufal Atilah Fadhullah
+NIM   : 2330511095
 
 list of 500 vocabulary to informatics:
 
